@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">dateApp</string>
+    <string name="name">Nombre Completo</string>
+    <string name="phone">Télefono</string>
+    <string name="mail">Email</string>
+    <string name="description">Descripción Contacto</string>
+    <string name="next">Siguiente</string>
+    <string name="datos">Confirmación Datos</string>
+    <string name="Nname">Nombre</string>
+    <string name="Ndate">Fecha</string>
+    <string name="Nphone">Télefono</string>
+    <string name="Nmail">Email</string>
+    <string name="Ndescription">Descripcion</string>
+</resources>
